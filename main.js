@@ -3,6 +3,7 @@ var gridOptions = {
     { field: 'name'},
     { field: 'type'},
     { field: 'size'},
+    { field: 'id'},
 
   ],
   defaultColDef: {
